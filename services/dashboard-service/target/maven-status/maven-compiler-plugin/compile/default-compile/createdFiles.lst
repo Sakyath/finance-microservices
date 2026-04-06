@@ -1,0 +1,6 @@
+com/zorvyn/dashboard/config/SecurityConfig.class
+com/zorvyn/dashboard/repository/DashboardRepository.class
+com/zorvyn/dashboard/entity/FinancialRecord.class
+com/zorvyn/dashboard/service/DashboardService.class
+com/zorvyn/dashboard/controller/DashboardController.class
+com/zorvyn/dashboard/DashboardServiceApplication.class

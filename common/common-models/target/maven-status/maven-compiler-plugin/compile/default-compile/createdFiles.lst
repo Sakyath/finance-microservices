@@ -1,0 +1,4 @@
+com/zorvyn/common/model/response/ApiResponse.class
+com/zorvyn/common/model/enums/TransactionType.class
+com/zorvyn/common/model/enums/Role.class
+com/zorvyn/common/model/response/ErrorResponse.class

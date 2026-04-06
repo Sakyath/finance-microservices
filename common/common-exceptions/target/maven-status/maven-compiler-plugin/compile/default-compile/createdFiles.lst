@@ -1,0 +1,5 @@
+com/zorvyn/common/exception/BadRequestException.class
+com/zorvyn/common/exception/GlobalExceptionHandler.class
+com/zorvyn/common/exception/UnauthorizedException.class
+com/zorvyn/common/exception/ResourceNotFoundException.class
+com/zorvyn/common/exception/ForbiddenException.class

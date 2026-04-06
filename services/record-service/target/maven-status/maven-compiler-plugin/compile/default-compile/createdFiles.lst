@@ -1,0 +1,8 @@
+com/zorvyn/record/dto/FinancialRecordRequest.class
+com/zorvyn/record/entity/FinancialRecord.class
+com/zorvyn/record/dto/FinancialRecordResponse.class
+com/zorvyn/record/service/FinancialRecordService.class
+com/zorvyn/record/repository/FinancialRecordRepository.class
+com/zorvyn/record/RecordServiceApplication.class
+com/zorvyn/record/config/SecurityConfig.class
+com/zorvyn/record/controller/FinancialRecordController.class
